@@ -2,34 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pingfanpai.com/last-not/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pingfanpai.com/kids/arith/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pingfanpai.com/kids/chars/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pingfanpai.com/kids/tale/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pingfanpai.com/</loc>
+    <loc>hittps://ning.im/en/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pingfanpai.com/cn/</loc>
+    <loc>hittps://ning.im/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pingfanpai.com/cn/heji/</loc>
+    <loc>hittps://ning.im/en/2017/01/papers/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pingfanpai.com/kids/</loc>
-    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+    <loc>hittps://ning.im/cn/2016/05/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>https://pingfanpai.com/cn/about/</loc>
+    <loc>hittps://ning.im/cn/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>https://pingfanpai.com/categories/</loc>
+    <loc>hittps://ning.im/about/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://pingfanpai.com/tags/</loc>
+    <loc>hittps://ning.im/en/about/</loc>
+  </url><url>
+    <loc>hittps://ning.im/categories/</loc>
+  </url><url>
+    <loc>hittps://ning.im/cv/</loc>
+  </url><url>
+    <loc>hittps://ning.im/tags/</loc>
+  </url><url>
+    <loc>hittps://ning.im/cn/about/</loc>
   </url>
 </urlset>

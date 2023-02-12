@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 平凡派</title>
-    <link>https://pingfanpai.com/categories/</link>
-    <description>Recent content in Categories on 平凡派</description>
+    <title>Categories on Ning Zhang</title>
+    <link>hittps://ning.im/categories/</link>
+    <description>Recent content in Categories on Ning Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://pingfanpai.com/categories/" rel="self" type="application/rss+xml" />
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

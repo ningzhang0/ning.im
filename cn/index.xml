@@ -1,24 +1,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PAPERS on 平凡派</title>
-    <link>https://pingfanpai.com/cn/</link>
-    <description>Recent content in PAPERS on 平凡派</description>
+    <title>日志 on Ning Zhang</title>
+    <link>hittps://ning.im/cn/</link>
+    <description>Recent content in 日志 on Ning Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pingfanpai.com/cn/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>专题</title>
-      <link>https://pingfanpai.com/cn/heji/</link>
-      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <author>平凡派</author>
-      <guid>https://pingfanpai.com/cn/heji/</guid>
+      <title>About</title>
+      <link>hittps://ning.im/cn/2016/05/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <author>Ning Zhang</author>
+      <guid>hittps://ning.im/cn/2016/05/about/</guid>
       <description>
         <![CDATA[
-        <p> </p>
-<p>在这里将会更新一些专题文章</p>
+        <p>This is a &ldquo;hello world&rdquo; example website for the <a href="https://github.com/rstudio/blogdown"><strong>blogdown</strong></a> package. The theme was forked from <a href="https://github.com/jrutheiser/hugo-lithium-theme">@jrutheiser/hugo-lithium-theme</a> and modified by <a href="https://github.com/yihui/hugo-lithium">Yihui Xie</a>.</p>
+
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>关于</title>
+      <link>hittps://ning.im/cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Ning Zhang</author>
+      <guid>hittps://ning.im/cn/about/</guid>
+      <description>
+        <![CDATA[
+        <p>这是测试</p>
 
         
         ]]>
