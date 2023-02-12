@@ -44,23 +44,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://ning.im/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ning.im/about/</guid>
-      <description>
-        <![CDATA[
-        <p>This is a &ldquo;hello world&rdquo; example website for the <a href="https://github.com/rstudio/blogdown"><strong>blogdown</strong></a> package. The theme was forked from <a href="https://github.com/jrutheiser/hugo-lithium-theme">@jrutheiser/hugo-lithium-theme</a> and modified by <a href="https://github.com/yihui/hugo-lithium">Yihui Xie</a>.</p>
-
-        
-        ]]>
-      </description>
-    </item>
-    
-    
-    
-    <item>
       <title>CV/简历</title>
       <link>https://ning.im/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,7 +51,9 @@
       <guid>https://ning.im/cv/</guid>
       <description>
         <![CDATA[
-        <p>The latest CV is here~</p>
+        <p>The latest CV is here~ (updated Nov 2022)</p>
+<p><a href="https://ning.im/folder/CV.pdf">In English</a></p>
+<p>中文</p>
 
         
         ]]>
