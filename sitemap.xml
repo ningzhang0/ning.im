@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>hittps://ning.im/en/</loc>
+    <loc>https://ning.im/en/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>hittps://ning.im/</loc>
+    <loc>https://ning.im/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>hittps://ning.im/en/2017/01/papers/</loc>
+    <loc>https://ning.im/en/2017/01/papers/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>hittps://ning.im/cn/2016/05/about/</loc>
+    <loc>https://ning.im/cn/2016/05/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>hittps://ning.im/cn/</loc>
+    <loc>https://ning.im/cn/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>hittps://ning.im/about/</loc>
+    <loc>https://ning.im/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>hittps://ning.im/en/about/</loc>
+    <loc>https://ning.im/en/about/</loc>
   </url><url>
-    <loc>hittps://ning.im/categories/</loc>
+    <loc>https://ning.im/categories/</loc>
   </url><url>
-    <loc>hittps://ning.im/cv/</loc>
+    <loc>https://ning.im/cv/</loc>
   </url><url>
-    <loc>hittps://ning.im/tags/</loc>
+    <loc>https://ning.im/tags/</loc>
   </url><url>
-    <loc>hittps://ning.im/cn/about/</loc>
+    <loc>https://ning.im/cn/about/</loc>
   </url>
 </urlset>

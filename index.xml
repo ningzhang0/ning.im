@@ -1,25 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Ning Zhang</title>
-    <link>hittps://ning.im/</link>
+    <link>https://ning.im/</link>
     <description>Recent content in Homepage on Ning Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ning.im/" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blogs</title>
-      <link>hittps://ning.im/en/</link>
+      <link>https://ning.im/en/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       <author>Ning Zhang</author>
-      <guid>hittps://ning.im/en/</guid>
+      <guid>https://ning.im/en/</guid>
       <description>
         <![CDATA[
         
         
-        <script>location.href='hittps://ning.im/en/';</script>
+        <script>location.href='https://ning.im/en/';</script>
         
         ]]>
       </description>
@@ -29,10 +29,10 @@
     
     <item>
       <title>日志</title>
-      <link>hittps://ning.im/cn/</link>
+      <link>https://ning.im/cn/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       <author>Ning Zhang</author>
-      <guid>hittps://ning.im/cn/</guid>
+      <guid>https://ning.im/cn/</guid>
       <description>
         <![CDATA[
         
@@ -45,10 +45,10 @@
     
     <item>
       <title></title>
-      <link>hittps://ning.im/about/</link>
+      <link>https://ning.im/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hittps://ning.im/about/</guid>
+      <guid>https://ning.im/about/</guid>
       <description>
         <![CDATA[
         <p>This is a &ldquo;hello world&rdquo; example website for the <a href="https://github.com/rstudio/blogdown"><strong>blogdown</strong></a> package. The theme was forked from <a href="https://github.com/jrutheiser/hugo-lithium-theme">@jrutheiser/hugo-lithium-theme</a> and modified by <a href="https://github.com/yihui/hugo-lithium">Yihui Xie</a>.</p>
@@ -62,10 +62,10 @@
     
     <item>
       <title>CV/简历</title>
-      <link>hittps://ning.im/cv/</link>
+      <link>https://ning.im/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hittps://ning.im/cv/</guid>
+      <guid>https://ning.im/cv/</guid>
       <description>
         <![CDATA[
         <p>The latest CV is here~</p>

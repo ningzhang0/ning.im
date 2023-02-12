@@ -1,26 +1,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Ning Zhang</title>
-    <link>hittps://ning.im/en/</link>
+    <link>https://ning.im/en/</link>
     <description>Recent content in Blogs on Ning Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ning.im/en/" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PAPERS</title>
-      <link>hittps://ning.im/en/2017/01/papers/</link>
+      <link>https://ning.im/en/2017/01/papers/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       <author>Ning Zhang</author>
-      <guid>hittps://ning.im/en/2017/01/papers/</guid>
+      <guid>https://ning.im/en/2017/01/papers/</guid>
       <description>
         <![CDATA[
         <p>sdkfhajlfh</p>
 
         
-        <script>location.href='hittps://ning.im/en/2017/01/papers/';</script>
+        <script>location.href='https://ning.im/en/2017/01/papers/';</script>
         
         ]]>
       </description>
@@ -30,15 +30,15 @@
     
     <item>
       <title>About</title>
-      <link>hittps://ning.im/en/about/</link>
+      <link>https://ning.im/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Ning Zhang</author>
-      <guid>hittps://ning.im/en/about/</guid>
+      <guid>https://ning.im/en/about/</guid>
       <description>
         <![CDATA[
         
         
-        <script>location.href='hittps://ning.im/en/about/';</script>
+        <script>location.href='https://ning.im/en/about/';</script>
         
         ]]>
       </description>
