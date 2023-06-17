@@ -11,7 +11,10 @@
     <loc>https://ning.im/en/2017/01/papers/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ning.im/cn/2016/05/about/</loc>
+    <loc>https://ning.im/cn/about/2016/05/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>https://ning.im/cn/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
     <loc>https://ning.im/cn/</loc>
@@ -24,7 +27,5 @@
     <loc>https://ning.im/cv/</loc>
   </url><url>
     <loc>https://ning.im/tags/</loc>
-  </url><url>
-    <loc>https://ning.im/cn/about/</loc>
   </url>
 </urlset>
